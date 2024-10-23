@@ -8,7 +8,9 @@ subtitle: '成为更好的自己'
 description: '记录易遗忘的知识'
 keywords:
 author: Luyseon
-language: zh-CN
+language:
+  - zh-CN
+  - en
 timezone: ''
 
 # URL
